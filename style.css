@@ -1,0 +1,28 @@
+body{
+    background: LINEAR-GRADIENT(TO RIGHT, RGB(104, 132, 196), RGB(93, 172, 135));
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+#container{
+    padding-top: 20rem;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: cursive;
+}
+#btn{
+    margin-top: 3rem;
+    width: 20rem;
+    height: 3rem;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-family: cursive;
+}
+footer{
+    
+    padding-top: 40rem;
+    position: relative;
+}
